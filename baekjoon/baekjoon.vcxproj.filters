@@ -60,7 +60,7 @@
     <ClCompile Include="10798 세로읽기_벡터연습.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1157 단어 공부.cpp">
+    <ClCompile Include="1018 체스판.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
