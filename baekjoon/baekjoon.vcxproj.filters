@@ -60,7 +60,13 @@
     <ClCompile Include="10798 세로읽기_벡터연습.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1018 체스판.cpp">
+    <ClCompile Include="1018 체스판 다시 칠하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1085 직사각형에서 탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1181 단어 정렬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
